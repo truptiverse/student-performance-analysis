@@ -1,0 +1,16 @@
+student_id,gender,study_hours,attendance,math_score,science_score,english_score
+1,Female,2,85,78,82,80
+2,Male,4,92,88,90,85
+3,Female,3,88,84,86,89
+4,Male,1,70,65,68,72
+5,Female,5,95,92,94,91
+6,Male,2,78,74,76,70
+7,Female,4,90,89,91,93
+8,Male,3,82,80,78,81
+9,Female,6,98,96,95,97
+10,Male,2,75,72,70,74
+11,Female,3,87,85,88,86
+12,Male,5,94,91,89,90
+13,Female,1,68,64,66,70
+14,Male,4,89,86,84,88
+15,Female,5,96,94,92,95
